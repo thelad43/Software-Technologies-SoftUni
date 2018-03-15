@@ -1,0 +1,31 @@
+.spanRed {
+	color: red;
+}
+
+.spanGreen {
+	color: green;
+}
+
+.spanBlue {
+	color: blue;
+}
+
+.paragraphRed {
+	border: solid red;
+	border-radius: 5px;
+}
+
+.paragraphGreen {
+	border: solid green;
+	border-radius: 5px;
+}
+
+.paragraphBlue {
+	border: solid blue;
+	border-radius: 5px;
+}
+
+p {
+	text-align: center;
+	width: 200px;
+}
