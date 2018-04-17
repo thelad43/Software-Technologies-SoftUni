@@ -1,0 +1,12 @@
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\bin\Debug\netcoreapp2.0\Book Library.deps.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\bin\Debug\netcoreapp2.0\Book Library.runtimeconfig.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\bin\Debug\netcoreapp2.0\Book Library.runtimeconfig.dev.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\bin\Debug\netcoreapp2.0\Book Library.dll
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\Book Library.csprojResolveAssemblyReference.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\Book Library.csproj.CoreCompileInputs.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\Book Library.AssemblyInfoInputs.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\Book Library.AssemblyInfo.cs
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\bin\Debug\netcoreapp2.0\Book Library.pdb
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\Book Library.dll
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Book Library\Book Library\obj\Debug\netcoreapp2.0\Book Library.pdb
