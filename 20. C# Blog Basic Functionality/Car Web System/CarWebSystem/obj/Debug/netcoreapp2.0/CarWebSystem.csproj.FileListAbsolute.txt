@@ -1,0 +1,12 @@
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\bin\Debug\netcoreapp2.0\CarWebSystem.deps.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\bin\Debug\netcoreapp2.0\CarWebSystem.runtimeconfig.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\bin\Debug\netcoreapp2.0\CarWebSystem.runtimeconfig.dev.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\bin\Debug\netcoreapp2.0\CarWebSystem.dll
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\bin\Debug\netcoreapp2.0\CarWebSystem.pdb
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\CarWebSystem.csprojResolveAssemblyReference.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\CarWebSystem.csproj.CoreCompileInputs.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\CarWebSystem.AssemblyInfoInputs.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\CarWebSystem.AssemblyInfo.cs
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\CarWebSystem.dll
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\CarWebSystem\CarWebSystem\obj\Debug\netcoreapp2.0\CarWebSystem.pdb
