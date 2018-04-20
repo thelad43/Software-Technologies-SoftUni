@@ -1,0 +1,12 @@
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csprojResolveAssemblyReference.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+C:\Users\tedi\Documents\Visual Studio 2017\Projects\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb
